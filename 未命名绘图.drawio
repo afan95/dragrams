@@ -1,1 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T01:40:53.351Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.121 Safari/537.36" etag="XyDVgd6rb5-gkjvWxWtF" version="16.6.7" type="github"><diagram id="cKcUhYNU4gicFupRbqOp" name="第 1 页">7VrbbuM2EP0aPmZh3clH0Za3wKIt0Cxa9FGxFFuIbLqyvHH26zszou7MbbOODGSBILGHlESdOXM4Mwxz5tvT5yLeb35XSZoze5acmLNgtu1yF36j4aEycOFVhnWRJZXJag3X2fdUG2faesyS9NCbWCqVl9m+b1yp3S5dlT1bXBTqvj/tVuX9p+7jdToyXK/ifGz9J0vKjX4LO2jtv6XZelM/2fJFNbKN68n6TQ6bOFH3HZMTMWdeKFVWn7aneZojdjUu1XXLR0abhRXprnzJBcv05MwPm3930ZfAL8svxd9CXOm7fIvzo35hFvmMC8YlizzGQxZyFgVMuEwsaYgzMWPRksk5EyEOwQS+wMlg5xGLOAthVOqXLh9qJAt13CUpLsZijrzfZGV6vY9XOHoP1AHbptzmenj8cvVK06JMTx2TftnPqdqmZfEAU2rqadw18YKZ/n7futGqfbPpuNDXtlgzZ93cuQUXPmh8X4G1bcAa4JvjT+QyCTjOEEdpMW4jjnLJeICgA5qh2wHdxaHQIn9YCDdMBuhlQD5bMuFPjr4VDOD3DfC77wm/8wz8IePzH4VfMAEe8C6H/I64NPjd59kvfhR+DyfAToNCBSI0Pfu9i2O/Z4AfyBqx0O7RdyAjNep/XV9PDqo964Pq8zGo3P7kjVF1z4WqP0bV9nN4qjzs410PLv+/I+70El62vIrzbL1jToiJCwCSFu04fFrTX+S5YKGPrMagWBhkpgkK/dSborlcW+C1qqX0zV3bFSKz33ciDKIwQm60odY8sFmUg7sVpyEBVwW4TIhgIU1q+ORaxotOsm/PLZiEYcakS9FvU5pSiceyeZG7bJcA+k8/HcyGx71wBeEMn4QPntODQbUWJGg++gtDSy9lDh6/KV67lrcEnKbYIk9v25u9Kf78Qfw1mW1X1GbvKWqBQdSIu0g+yl5FREThtWXBoP54Imqq7UbSVhIuMO0dX/4mtyRZAWVKptA19+nhJ7lmKI2OwTXc4JmzCSMfeWaf3D4hYFKpu9Mfqkwn32WGLJ8cSmEguUBRBiHGhEeSUge0l1ttCvQ4yQFm5F+t4F8LWISaHPchhS1DyvSuuNcdiEFtDDud9InJAekEJVGyKtx66vJVrdf5GzW8WOmOiOWcB2XXlEO9K8qmDkRAUBKZQSME7aeQjHJKMkKJ2+7j9J4fb9Tp4ujsG9oP7wu0qf0whvVRha5gbdM+EhxOWRDUa+H0NddQuL2phdsydRxcyi+a5pr1FuV+UbZST/7z5pAlGeacFxYZjQMm85OpNUFCH3p1g/PpUusSE0Lrk+31pX5yBTL1IB7HGTvKEttyWOBFZBntvkPksbg2l0G6zHYkYpit4jzUA9sswSLRkUV6yL7HN3SrGXzfq2xXEgaeZN4C73Us1UHvx1gQloW6S+cqV3DfxU7t8C63WZ4PTD/BnY4/2LatsS+NpZd9NmcaWh+6jUeNCthU8APHnQGVqpEsgWWxWOimnaD2BvgWu3dVE1a26e1Hda/jvPCs4nzuNZXWPqYEfNkJWopM7Nv62DgU9i9njp1pe5PH6rgap3JF6PYZOKpqM+pakvpaEMCG9gid8oV1HxA938h11Q0Tde+rOgkMiAseHRva+gOmODQUOtRxntHBi4+iUG0EmkGjIne0HupaCiwQqkRUnx00S2rUx6c5wlS/Bfj6sm4a8uYsqLvIqrRzaoGTfZoP8jk6uRCyBfajEN/mokd8y/NGxG+CoUt872zEN/VOyL0y7Jxqj3mqGVTn25oaClLoLLnAFHrqIr5Wrg7OYZHGbUwZlQRUQjqdk+/GH2SBekaH7cyUT3RVwqZo9fBa+Pko4eZ4AxKMo814xOi8ngXwtf0/FRrr/LOPE/0P</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-08T01:54:53.701Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.121 Safari/537.36" etag="1fpINnDYJwkuFlef5qf1" version="16.6.7" type="github">
+  <diagram id="cKcUhYNU4gicFupRbqOp" name="第 1 页">
+    <mxGraphModel dx="484" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Fex3CshYnEK76ttKrV99-1" value="手动生成：稍后读" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fex3CshYnEK76ttKrV99-2" value="第一层过滤：信息获取" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="760" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fex3CshYnEK76ttKrV99-3" value="第二层过滤：信息阅读" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="760" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fex3CshYnEK76ttKrV99-4" value="第三层过滤：信息处理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="570" y="760" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fex3CshYnEK76ttKrV99-5" value="订阅获取：RSS" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="680" width="82.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fex3CshYnEK76ttKrV99-6" value="&lt;span style=&quot;text-align: center&quot;&gt;书籍阅读：&lt;br&gt;&lt;/span&gt;&lt;span&gt;- app：微信读书、蜗牛阅读&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span&gt;- 水墨屏：kindle&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;- 格式转换：Calibre&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="600" y="220" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fex3CshYnEK76ttKrV99-7" value="待办清单：&lt;br&gt;滴答清单" style="rounded=1;whiteSpace=wrap;html=1;direction=west;" parent="1" vertex="1">
+          <mxGeometry x="200" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fex3CshYnEK76ttKrV99-8" value="pdf阅读：BookxNote" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fex3CshYnEK76ttKrV99-9" value="项目管理：&lt;br&gt;Notion、Trello" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fex3CshYnEK76ttKrV99-10" value="时间记录：Toggl" style="rounded=1;whiteSpace=wrap;html=1;arcSize=13;" parent="1" vertex="1">
+          <mxGeometry x="200" y="480" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fex3CshYnEK76ttKrV99-11" value="网络文章：&lt;br&gt;Cubox" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="600" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fex3CshYnEK76ttKrV99-12" value="文章阅读：Cubox、简悦" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="520" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fex3CshYnEK76ttKrV99-13" value="任务管理：&lt;br&gt;Notion、滴答清单、Obsidian" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fex3CshYnEK76ttKrV99-14" value="日程：&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=west;" parent="1" vertex="1">
+          <mxGeometry x="201.25" y="400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fex3CshYnEK76ttKrV99-15" value="日程：固定时间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="360" y="410" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Fex3CshYnEK76ttKrV99-16" value="不重要、额外的事项" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="360" y="330" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Fex3CshYnEK76ttKrV99-17" value="每日安排的事项" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="360" y="250" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Fex3CshYnEK76ttKrV99-18" value="年度目标&lt;br&gt;含义：根据规划分解而来的项目&lt;br&gt;app需求：要有时间线，了解当下的任务进度" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="289" y="155" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Fex3CshYnEK76ttKrV99-19" value="人生规划：Notion，obsiidan" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Fex3CshYnEK76ttKrV99-20" value="Area，&lt;br&gt;即一生中最重要的领域" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="350" y="85" width="140" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
