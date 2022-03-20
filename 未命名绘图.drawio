@@ -1,44 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2022-03-15T08:07:30.949Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.121 Safari/537.36" etag="yyWAy4_9y-kFLJH2uicL" version="16.6.8" type="github" pages="2">
-  <diagram id="cKcUhYNU4gicFupRbqOp" name="第 1 页">
-    <mxGraphModel dx="567" dy="927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2022-03-20T12:34:03.874Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.121 Safari/537.36" etag="5KAgpnsUgbTNRj1X_tJP" version="16.6.8" type="github" pages="2">
+  <diagram id="cKcUhYNU4gicFupRbqOp" name="时间管理">
+    <mxGraphModel dx="886" dy="927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Fex3CshYnEK76ttKrV99-1" value="手动生成：稍后读" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="700" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Fex3CshYnEK76ttKrV99-2" value="第一层过滤：信息获取" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="170" y="760" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Fex3CshYnEK76ttKrV99-3" value="第二层过滤：信息阅读" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="760" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Fex3CshYnEK76ttKrV99-4" value="第三层过滤：信息处理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="570" y="760" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Fex3CshYnEK76ttKrV99-5" value="订阅获取：RSS" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="680" width="82.5" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Fex3CshYnEK76ttKrV99-6" value="&lt;span style=&quot;text-align: center&quot;&gt;书籍阅读：&lt;br&gt;&lt;/span&gt;&lt;span&gt;- app：微信读书、蜗牛阅读&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span&gt;- 水墨屏：kindle&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;- 格式转换：Calibre&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="600" y="220" width="100" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="Fex3CshYnEK76ttKrV99-7" value="待办清单：&lt;br&gt;滴答清单" style="rounded=1;whiteSpace=wrap;html=1;direction=west;" parent="1" vertex="1">
           <mxGeometry x="200" y="320" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Fex3CshYnEK76ttKrV99-8" value="pdf阅读：BookxNote" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Fex3CshYnEK76ttKrV99-9" value="项目管理：&lt;br&gt;Notion、Trello" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="160" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Fex3CshYnEK76ttKrV99-10" value="时间记录：Toggl" style="rounded=1;whiteSpace=wrap;html=1;arcSize=13;" parent="1" vertex="1">
           <mxGeometry x="200" y="480" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Fex3CshYnEK76ttKrV99-11" value="网络文章：&lt;br&gt;Cubox" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="600" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Fex3CshYnEK76ttKrV99-12" value="文章阅读：Cubox、简悦" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="520" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Fex3CshYnEK76ttKrV99-13" value="任务管理：&lt;br&gt;Notion、滴答清单、Obsidian" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="240" width="80" height="40" as="geometry" />
@@ -67,8 +40,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="6tlEUaEv3fYZCvyuzHMy" name="第 2 页">
-    <mxGraphModel dx="886" dy="927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="6tlEUaEv3fYZCvyuzHMy" name="知识管理">
+    <mxGraphModel dx="410" dy="927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="uK3GcWunRc2HqM01zg5T-0" />
         <mxCell id="uK3GcWunRc2HqM01zg5T-1" parent="uK3GcWunRc2HqM01zg5T-0" />
@@ -149,8 +122,14 @@
         <mxCell id="uK3GcWunRc2HqM01zg5T-43" value="滴答清单" style="whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="uK3GcWunRc2HqM01zg5T-1">
           <mxGeometry x="200" y="240" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uK3GcWunRc2HqM01zg5T-46" value="中转站" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="uK3GcWunRc2HqM01zg5T-1">
-          <mxGeometry x="75" y="250" width="50" height="20" as="geometry" />
+        <mxCell id="uK3GcWunRc2HqM01zg5T-46" value="信息阅读：中转站" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="uK3GcWunRc2HqM01zg5T-1">
+          <mxGeometry x="10" y="250" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vztVRRo3VFgIJ4NmWUNV-0" value="信息获取" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="uK3GcWunRc2HqM01zg5T-1">
+          <mxGeometry x="30" y="80" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vztVRRo3VFgIJ4NmWUNV-1" value="信息处理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="uK3GcWunRc2HqM01zg5T-1">
+          <mxGeometry x="40" y="410" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
