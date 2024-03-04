@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-03T11:29:01.016Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="NbEG6gP5pgrJZfX-9la8" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-04T04:02:24.818Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="9dyNulLYNheImLHCTazb" version="24.0.1" type="github">
   <diagram name="第 1 页" id="p39dXnjNt2d64MNdaQHX">
-    <mxGraphModel dx="2027" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2072" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,7 +46,7 @@
         <mxCell id="tb8oyuOAFIxV61g0iYeD-15" value="票种&lt;div&gt;数量&lt;/div&gt;&lt;div&gt;合计&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tb8oyuOAFIxV61g0iYeD-21" value="数量限制&lt;br&gt;已购票&lt;div&gt;已售罄&lt;br&gt;已截至&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="tb8oyuOAFIxV61g0iYeD-21" value="数量限制&lt;br&gt;已购票&lt;div&gt;已售罄&lt;br&gt;已截至&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="190" y="470" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="tb8oyuOAFIxV61g0iYeD-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tb8oyuOAFIxV61g0iYeD-23" target="tb8oyuOAFIxV61g0iYeD-25">
@@ -55,8 +55,8 @@
         <mxCell id="tb8oyuOAFIxV61g0iYeD-23" value="支付方式&lt;br&gt;优惠码" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tb8oyuOAFIxV61g0iYeD-25" value="支付倒计时&lt;br&gt;支付方式" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="500" width="120" height="60" as="geometry" />
+        <mxCell id="tb8oyuOAFIxV61g0iYeD-25" value="支付倒计时&lt;br&gt;支付方式&lt;br&gt;库存超卖-加锁" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="559" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tb8oyuOAFIxV61g0iYeD-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tb8oyuOAFIxV61g0iYeD-29" target="tb8oyuOAFIxV61g0iYeD-34">
           <mxGeometry relative="1" as="geometry" />
@@ -73,13 +73,13 @@
         <mxCell id="tb8oyuOAFIxV61g0iYeD-34" value="票券（电子票）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tb8oyuOAFIxV61g0iYeD-37" value="姓名&lt;br&gt;电话&lt;br&gt;&lt;div&gt;状态：已付款&lt;/div&gt;&lt;div&gt;票号&lt;br&gt;票种：免费票&lt;br&gt;票价：免费&lt;br&gt;实付金额：免费&lt;br&gt;有效期&lt;br&gt;活动说明&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="tb8oyuOAFIxV61g0iYeD-37" value="姓名&lt;br&gt;电话&lt;br&gt;&lt;div&gt;状态：已付款&lt;/div&gt;&lt;div&gt;票号&lt;br&gt;票种：免费票&lt;br&gt;票价：免费&lt;br&gt;实付金额：免费&lt;br&gt;有效期&lt;br&gt;活动说明&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="960" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tb8oyuOAFIxV61g0iYeD-41" value="用户表" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="50" y="680" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tb8oyuOAFIxV61g0iYeD-45" value="邀请好友参加&lt;br&gt;- 微信&lt;br&gt;- 朋友圈&lt;br&gt;- 复制链接&lt;br&gt;- 下载海报&lt;br&gt;认识其他参与者" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="tb8oyuOAFIxV61g0iYeD-45" value="邀请好友参加&lt;br&gt;- 微信&lt;br&gt;- 朋友圈&lt;br&gt;- 复制链接&lt;br&gt;- 下载海报&lt;br&gt;认识其他参与者" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="760" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tb8oyuOAFIxV61g0iYeD-47" value="活动表" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
